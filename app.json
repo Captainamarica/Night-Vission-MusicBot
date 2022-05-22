@@ -1,7 +1,7 @@
 {
-    "name": "Yukki Music Bot",
+    "name": "Night Vission Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "logo": "https://te.legra.ph/file/354bee41b0089d9f3c621.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "18895284",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "3091d00186aa25b92a9b791dcebd59de",
         "required": true
       },
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,47 +30,47 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5231197835:AAHC76DKO3-9EppJ-DPrUvraIxVBr_Lp-Wo",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
-        "value": "",
+        "value": "mongodb+srv://Navanjana:Navanjana@cluster0.zdnpe.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "",
+        "value": "NIGHT VISSION MUSIC",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "5381705557",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "BQBJtNZLKLDZmbtZC5A3gL6t-HYFOs1KtayI42NHHGijg2HZ2fVaqaTVC--P-TQCmh4agYz4fqFOzc5ybsouiuo6QaoWujJT5cR3lAxDQuWjOs9AH7eAG47jKuelPTxsz7dX9-iDfkkZsp9hohCx-y4DGKdj1sR_lDbYMRvyvdat150aXL53pMcufeYewfa7Y7wlyRJdHoX_yoWi7lp5uFW-QYyBcqNyWS3-nOl7mtgiLOEnl4Gn9t_6k5uAOoodL44Z074phVAWh8dZo0nCq2UZkjXz8b-kzeQ3ogXM68gCONJxY7jTkJnlyO-syFvL03JsCUlVAGZXPyQ5XWcGcuBUAAAAAUDGT1UA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "d157fda0-bab2-4835-ada8-6c74202348a4",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "",
+        "value": "bunukumakqbqba",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "",
+        "value": "-1001521552097",
         "required": true
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/TeamYukki/YukkiMusicBot",
+        "value": "https://github.com/Captainamarica/Night-Vission-MusicBot",
         "required": true
       },
       "UPSTREAM_BRANCH": {
